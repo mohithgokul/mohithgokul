@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Mohith Gokul 👋
-### Full-Stack Dev &middot; AI/ML Builder &middot; Hackathon Warrior
+### Full-Stack Dev · AI/ML Builder · Hackathon Warrior
 
 </div>
 
