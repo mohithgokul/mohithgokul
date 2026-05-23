@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/mohithgokul">
+  <a href="https://linkedin.com/in/mohith-gokul-reddy-kikkuru-5a228633b?)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/mohithgokul">
