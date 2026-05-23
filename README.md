@@ -113,25 +113,6 @@ Java LAN chat system with **socket programming**, multi-client support & friend-
   <img src="https://github-readme-stats.vercel.app/api?username=mohithgokul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff&count_private=true" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithgokul&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=FF6B6B&currStreakLabel=00FF99&sideLabels=ffffff" height="180" />
 </div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohithgokul&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&text_color=ffffff" height="220" />
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohithgokul&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%" />
-</div>
-
----
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohithgokul&bg_color=0D1117&color=00FF99&line=00FF99&point=ffffff&area=true&area_color=00FF99&hide_border=true" width="100%" />
-</div>
 
 ---
 
