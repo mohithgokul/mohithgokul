@@ -113,8 +113,7 @@ Java LAN chat system with **socket programming**, multi-client support & friend-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohithgokul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF99&icon_color=00FF99&text_color=ffffff&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithgokul&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=FF6B6B&currStreakLabel=00FF99&sideLabels=ffffff" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohithgokul&theme=tokyonight&hide_border=true&background=0D1117&ring=00FF99&fire=FF6B6B&currStreakLabel=00FF99&sideLabels=ffffff" width="60%" />
 </div>
 
 ---
