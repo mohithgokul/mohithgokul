@@ -26,11 +26,11 @@
 
 ```python
 class MohithGokul:
-    location    = "Hyderabad, India 🇮🇳"
+    location    = "Guntur, Andhra Pradesh, India 🇮🇳"
     stack       = ["Python", "FastAPI", "TypeScript", "Java", "C++"]
     loves       = ["AI/ML", "Hackathons", "Competitive Programming"]
     building    = "SurakshaPay — AI fraud detection + insurance for gig workers"
-    motto       = "Build in public · Learn in public · Ship in public"
+    motto       = "From hackathon prototype to production — that's my flow."
 
     def fun_fact(self):
         return "I debug best at 2AM ☕"
@@ -137,7 +137,7 @@ Java LAN chat system with **socket programming**, multi-client support & friend-
 ---
 
 <div align="center">
-  <sub>⚡ Built in public · Learning in public · Shipping in public</sub>
+  <sub>⚡ From hackathon prototype to production — that's my flow.</sub>
 </div>
 
 <div align="center">
